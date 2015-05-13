@@ -1,6 +1,9 @@
 # awesome-freelance-malaysia
 A curated list of awesome freelancers from Malaysia!!
 
+##A
+* [Amin007 Ledang](http://www.amin007.org) #php #mysql #mssql #html5 #mvcmelayu
+
 ##C
 * [Chris Lui](https://my.linkedin.com/in/chrislyr) - #cSharp #.NET #xamarin #azure #java
 
